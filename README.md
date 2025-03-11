@@ -17,5 +17,5 @@ Writing to a File – The program takes user input and writes it into a specifie
 Reading from a File – The program reads and displays the contents of the file.
 Modifying a File – The program replaces a specified word with a new word in the file.
 
-#OUTPUT:
+#OUTPUT![Image](https://github.com/user-attachments/assets/c682d73d-43fb-4b2e-a4db-9151386a5106)
 
